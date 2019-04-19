@@ -1,2 +1,3 @@
 hello git
 i like git
+this text is add after commit
